@@ -51,7 +51,8 @@
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-progress-wheel": "1.0.4",
-    "react-native-snap-carousel": "3.8.0"
+    "react-native-snap-carousel": "3.8.0",
+    "react-native-svg": "8.0.10"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
@@ -70,7 +71,7 @@
   "ern": {
     "moduleName": "MoviesReloaded",
     "moduleType": "ern-miniapp",
-    "version": "0.37.0"
+    "version": "0.38.11"
   },
   "keywords": [
     "ern-miniapp"
